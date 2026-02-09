@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A 7th grade computer science student from Peru</h3>
+<h3 align="center">A 10th grade computer science student from Peru</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieleeh32159&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieleeh32159" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at **UTEC**
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m an AI Engineer****
 
 - 📫 How to reach me **gabrieleeh32159@hotmail.com**
 
