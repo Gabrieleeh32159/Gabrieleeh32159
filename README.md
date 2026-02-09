@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying at **UTEC**
 
-- 🌱 I’m an AI Engineer****
+- 🌱 I’m an AI Engineer
 
 - 📫 How to reach me **gabrieleeh32159@hotmail.com**
 
